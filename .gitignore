@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Playwright
 /test-results/
 /playwright-report/
@@ -5,6 +6,8 @@
 /playwright/.cache/
 /playwright/.auth/
 
+=======
+>>>>>>> 07d3fb7b8f35e81dadbef646afd1263f9154940d
 # Logs
 logs
 *.log
@@ -143,4 +146,8 @@ dist
 
 # Vite logs files
 vite.config.js.timestamp-*
+<<<<<<< HEAD
 vite.config.ts.timestamp-*
+=======
+vite.config.ts.timestamp-*
+>>>>>>> 07d3fb7b8f35e81dadbef646afd1263f9154940d
